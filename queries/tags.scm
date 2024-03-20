@@ -1,3 +1,5 @@
+; This seems to be used for github?
+
 (struct_specifier name: (type_identifier) @name body:(_)) @definition.class
 
 (declaration type: (union_specifier name: (type_identifier) @name)) @definition.class
